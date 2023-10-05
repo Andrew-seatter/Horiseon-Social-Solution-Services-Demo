@@ -6,10 +6,8 @@ We built this project to show Horiseon how their own personal webpage would look
 It solves the problem of Horiseon not having any sort of online prescence for their potential customers.
 I learned to structure html and css more semantically on this project.
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Single Page Website where the nav links in the header navigate to the various boxes located on the webpage
+screenshot below of the nav bar and one of the boxes.
 
 ![website-screenshot](assets/images/screenshot.png)
 
